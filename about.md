@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
+If all goes according to plan, this blog will be placeholder for findings I make while coding cool little things home and bigger ones at work. In the meantime, [my collection of gists](https://gist.github.com/pyrtsa) may contain something fun or useful to read.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[pyry.jahkola@iki.fi](mailto:pyry.jahkola@iki.fi)
